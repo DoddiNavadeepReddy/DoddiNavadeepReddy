@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Navadeep%20Reddy&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Python%20%C2%B7%20Machine%20Learning%20%C2%B7%20Finance%20%C2%B7%20Builder&descAlignY=60&descSize=20&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/DoddiNavadeepReddy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=Turning+data+into+decisions+%F0%9F%93%88;Building+ML+pipelines+that+predict+the+market+%F0%9F%A4%96;Based+in+Bengaluru%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Open+to+internships+%26+collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=Turning+data+into+decisions+%F0%9F%93%88;Building+pipelines+that+predict+the+market+%F0%9F%A4%96;Based+in+Bengaluru%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Open+to+internships+%26+collaborations+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
