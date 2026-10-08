@@ -1,147 +1,145 @@
-## Hi there
-
-<!--
-**DoddiNavadeepReddy/DoddiNavadeepReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- ============ HEADER BANNER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Navadeep%20Reddy&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Python%20%C2%B7%20Machine%20Learning%20%C2%B7%20Finance%20%C2%B7%20Builder&descAlignY=60&descSize=20&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:003d1f&height=260&section=header&text=NAVADEEP%20REDDY&fontSize=58&fontColor=00ff9c&fontAlignY=42&desc=CSE%20%C2%B7%20Cybersecurity%20%C2%B7%20Software%20%C2%B7%20Databases&descAlignY=64&descSize=18&descColor=c9d1d9&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/DoddiNavadeepReddy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=Turning+data+into+decisions+%F0%9F%93%88;Building+pipelines+that+predict+the+market+%F0%9F%A4%96;Based+in+Bengaluru%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Open+to+internships+%26+collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=00FF9C&background=00000000&center=true&vCenter=true&width=700&lines=%3E+whoami;%3E+CSE+student+%40+REVA+University%2C+Bengaluru;%3E+building+secure%2C+practical+software;%3E+Learn.+Build.+Improve.+Repeat." alt="typing" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=DoddiNavadeepReddy&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
-<a href="https://www.linkedin.com/in/navadeep-reddy-23r/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Bengaluru-India-ff6b6b?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=DoddiNavadeepReddy&label=VISITS&color=00ff9c&labelColor=0d1117&style=for-the-badge" />
+<img src="https://img.shields.io/badge/B.Tech-CSE-00ff9c?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Bengaluru-India-00ff9c?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
 <br/>
 
-<!-- ============ ABOUT ============ -->
-## ✨ About Me
+## `~/about`
 
-```python
-class Navadeep:
-    name     = "Doddi Navadeep Reddy"
-    location = "Bengaluru, India"
-    focus    = ["Cyber Security", "Financial Data", "Python Automation"]
-    currently_building = "Gold-oracle: a gold price forecasting pipeline"
-    learning = ["Networking", "Data Engineering", "System Design"]
-    fun_fact = "I try to predict gold prices so I can pretend I'm a trader"
+```bash
+navadeep@github:~$ cat about.txt
 
-    def say_hi(self):
-        return "Let's build something awesome together!"
+  Role       : 2nd-year B.Tech CSE student, REVA University
+  Focus      : Cybersecurity · Networking · Software · Databases
+  Building   : Full-stack apps, ML pipelines, SQL/Oracle analysis
+  Practising : LeetCode + HackerRank (Python, Java)
+  Philosophy : Learn. Build. Improve. Repeat.
 ```
 
 <br/>
 
-<!-- ============ TECH STACK ============ -->
-## 🛠️ Tech Stack
+## `~/projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔮 Gold-oracle
+Python pipeline that tracks global gold futures and USD/INR rates, applies Indian **GST and duty** logic, and forecasts 2026 prices with **Scikit-Learn** regression.
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff9c)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=00ff9c)
+
+**[→ View repo](https://github.com/DoddiNavadeepReddy/Gold-oracle)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ CrimeShield
+Smart emergency-response system with emergency activation, live location, evidence collection and storage, and a **real-time** web dashboard.
+
+![Node](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=00ff9c)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00ff9c)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-0d1117?style=flat-square&logo=socketdotio&logoColor=00ff9c)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=00ff9c)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Oracle Analysis
+Structured data analysis using **Oracle Database** and **SQL**: querying, database management, and insight extraction.
+
+![Oracle](https://img.shields.io/badge/Oracle-0d1117?style=flat-square&logo=oracle&logoColor=00ff9c)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=00ff9c)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Algorithms
+Problem-solving portfolios with documented solutions and **complexity analysis**.
+
+**[→ LeetCode solutions](https://github.com/DoddiNavadeepReddy/leetcode-solutions)**
+HackerRank: Binary Search, Insertion Sort, Mini-Max Sum and more.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `~/stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,ts,js,html,css,git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,html,css,react,nodejs,express,mongodb,oracle,supabase,git,github,linux,figma,vscode,arduino&perline=10&theme=dark" />
+
+</div>
+
+<br/>
+
+## `~/focus`
+
+```text
+ SECURITY & NETWORKS        SOFTWARE & DATA
+ ├─ Cybersecurity basics    ├─ Web & backend development
+ ├─ Computer networks       ├─ REST APIs, real-time apps
+ ├─ Linux fundamentals      ├─ DBMS, SQL, Oracle, MongoDB
+ └─ Web & network security  └─ Python, Java, C/C++
+```
+
+<br/>
+
+## `~/stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DoddiNavadeepReddy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&border_radius=14" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoddiNavadeepReddy&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&border_radius=14" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=DoddiNavadeepReddy&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border_radius=14" />
+
 <br/><br/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
-
-</div>
-
-<br/>
-
-<!-- ============ FEATURED PROJECT ============ -->
-## 🚀 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/DoddiNavadeepReddy/Gold-oracle">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DoddiNavadeepReddy&repo=Gold-oracle&theme=tokyonight&hide_border=true&border_radius=16" />
-</a>
-
-</div>
-
-> **Gold-oracle** is a Python financial pipeline that tracks global gold futures and USD/INR rates, applies Indian tax logic (GST and import duty), and uses Scikit-Learn Linear Regression to forecast 2026 prices.
-
-<br/>
-
-<!-- ============ GITHUB STATS ============ -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DoddiNavadeepReddy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoddiNavadeepReddy&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=DoddiNavadeepReddy&theme=tokyonight&hide_border=true&border_radius=16" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DoddiNavadeepReddy&theme=tokyo-night&hide_border=true&area=true&radius=16" width="100%" />
-
-</div>
-
-<br/>
-
-<!-- ============ TROPHIES ============ -->
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DoddiNavadeepReddy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-</div>
-
-<br/>
-
-<!-- ============ SNAKE ============ -->
-## 🐍 Contribution Snake
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DoddiNavadeepReddy/DoddiNavadeepReddy/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DoddiNavadeepReddy/DoddiNavadeepReddy/output/github-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DoddiNavadeepReddy/DoddiNavadeepReddy/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/DoddiNavadeepReddy/DoddiNavadeepReddy/output/github-snake.svg" />
 </picture>
 
 </div>
 
 <br/>
 
-<!-- ============ CONNECT ============ -->
-## 🤝 Let's Connect
+## `~/connect`
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/navadeep-reddy-23r/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/DoddiNavadeepReddy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<!-- Add your email below, then uncomment: -->
-<!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
+<a href="https://www.linkedin.com/in/navadeep-reddy-23r/"><img src="https://img.shields.io/badge/LinkedIn-00ff9c?style=for-the-badge&logo=linkedin&logoColor=0d1117" /></a>
+<a href="https://github.com/DoddiNavadeepReddy"><img src="https://img.shields.io/badge/GitHub-00ff9c?style=for-the-badge&logo=github&logoColor=0d1117" /></a>
+<a href="https://www.figma.com/design/Swg9PSYL6Mth9RQIIJKelG"><img src="https://img.shields.io/badge/Portfolio-00ff9c?style=for-the-badge&logo=figma&logoColor=0d1117" /></a>
 
 <br/><br/>
 
-<i>"Code is like humor. When you have to explain it, it's bad."</i>
+```bash
+navadeep@github:~$ echo "Open to collaborate, learn and build."
+```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003d1f,100:000000&height=100&section=footer" width="100%" />
