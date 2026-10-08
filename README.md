@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 class Navadeep:
     name     = "Doddi Navadeep Reddy"
     location = "Bengaluru, India"
-    focus    = ["Machine Learning", "Financial Data", "Python Automation"]
+    focus    = ["Cyber Security", "Financial Data", "Python Automation"]
     currently_building = "Gold-oracle: a gold price forecasting pipeline"
-    learning = ["Deep Learning", "Data Engineering", "System Design"]
+    learning = ["Networking", "Data Engineering", "System Design"]
     fun_fact = "I try to predict gold prices so I can pretend I'm a trader"
 
     def say_hi(self):
