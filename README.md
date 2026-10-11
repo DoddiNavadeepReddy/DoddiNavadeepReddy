@@ -23,7 +23,7 @@ navadeep@github:~$ cat about.txt
 
   Role       : 2nd-year B.Tech CSE student, REVA University
   Focus      : Cybersecurity · Networking · Software · Databases
-  Building   : Full-stack apps, ML pipelines, SQL/Oracle analysis
+  Building   : Full-stack websites, ML pipelines, SQL/Oracle analysis
   Practising : LeetCode + HackerRank (Python, Java)
   Philosophy : Learn. Build. Improve. Repeat.
 ```
